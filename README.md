@@ -57,4 +57,4 @@ http://creativecommons.org/licenses/by-nc/3.0/
 Special thanks
 --------------
 
-Thanks to the Highchart support for their help.
+Thanks to the Highchart support for their help ;).
